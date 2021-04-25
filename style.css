@@ -1,0 +1,47 @@
+body{background-color: green;
+
+}
+*{
+	font-size: 1.1em;
+text-align: center;
+}
+h1{	color: blue;
+	text-align: center;
+	}
+p{color: blue}
+h2{color:green}
+h3{ color: violet }
+.div1{
+	background-color: grey;
+	
+
+}
+.car_ob{background-color: white}
+#t01{
+	background-color: white
+}
+#2{
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+div:hover {background-color: #f5f5f5;}
+th:hover {background-color: red;}
+
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+.add{
+	padding: 2px;
+	margin-left: auto;
+	margin-right: auto; 
+}
